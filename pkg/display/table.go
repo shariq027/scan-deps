@@ -78,7 +78,6 @@ func unique(arr []string) []string {
 		if !occurred[arr[e]] {
 			occurred[arr[e]] = true
 
-			// Append to result slice.
 			result = append(result, arr[e])
 		}
 	}
