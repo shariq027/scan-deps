@@ -22,6 +22,8 @@ The above run would scan the current folder for vulnerabilities by default. Foll
 $ go run main.go --path=C:\Users\user\Downloads\abc-project --format=table --output_path=C:\Users\user\Downloads
 ```
 
+![alt text](https://github.com/shariq027/scan-deps/blob/master/docs/images/demo-shot.png)
+
 ### Support
 
 We currently support languages and their dependency files mentioned below
