@@ -1,5 +1,9 @@
 # scan-deps
 
+Project Overview:
+
+This project was developed by Mohd Yasreeb Hussain & Syed Adil Shariq to help cybersecurity community. 
+
 ## Quick Start
 
 ### Prerequisites
